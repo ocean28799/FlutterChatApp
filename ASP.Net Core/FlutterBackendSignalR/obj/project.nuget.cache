@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NxPKHHHGUq9oOy9qPD7DyvdqEe98/vSj7C15bWRuEQhnK7Z/veg69MdHKe6sXgtiQBmxddBtavbukJszoXuFig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MANGO01\\source\\repos\\FlutterBackendSignalR\\FlutterBackendSignalR\\FlutterBackendSignalR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MANGO01\\.nuget\\packages\\microsoft.openapi\\1.3.2\\microsoft.openapi.1.3.2.nupkg.sha512",
+    "C:\\Users\\MANGO01\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\MANGO01\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\MANGO01\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
