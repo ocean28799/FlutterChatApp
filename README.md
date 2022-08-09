@@ -1,4 +1,4 @@
-# real time simple chat application with Flutter and SignalR
+# Real time chat application with Flutter and SignalR
 
 ## Description
 
