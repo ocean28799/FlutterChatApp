@@ -1,5 +1,8 @@
 # Real time chat application with Flutter and SignalR
 
+# Demo
+![Alt Text](https://github.com/ocean28799/FlutterChatApp/edit/main/README.md)
+
 ## Description
 
 - Client : Flutter
